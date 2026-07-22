@@ -2,6 +2,7 @@
 Data Analysis of Intenational Supermaket Chain, 2Market | Excel, Tableau, SQL (Postgres)
 
 <b>March 2025</b>
+
 Grade: 81% (Distinction)
 
 ## 2Market Marketing and Ad Data Analysis
