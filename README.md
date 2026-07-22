@@ -23,11 +23,11 @@ Another important exclusion is the removal of Montenegro. Having only three obse
 Appendix A provides a complete breakdown of data cleaning. Basic descriptive analysis was then performed to gather early understanding of the data set. 
 
 
-<img width="400" height="250" alt="figa 2 market" src="https://github.com/user-attachments/assets/05b18c3e-9c14-4d17-a045-05290410b3fb" />
+<img width="200" alt="figa 2 market" src="https://github.com/user-attachments/assets/05b18c3e-9c14-4d17-a045-05290410b3fb" />
 
 The highest frequency of customers fall in the $30k to $45k income bin.
 
-<img width="500" height="300" alt="figb 2market" src="https://github.com/user-attachments/assets/04e6d926-f66a-4aa5-8717-52d4366a4990" />
+<img width="200"  alt="figb 2market" src="https://github.com/user-attachments/assets/04e6d926-f66a-4aa5-8717-52d4366a4990" />
 
 ‘Widow’ has the highest mean Income of all Marital Status, ‘Single’ the lowest. 
 The descriptive analysis assisted in the decision to be selective and generally disregard ‘Qualification’ and ‘Marital Status’ for the forthcoming analysis. As the dashboard has the end goal of identifying,’how’ and ‘who’ 2Market should target their marketing, location, age, income and what customers buy, are more important to a shop such as 2Market that sells ‘essential’ goods such as food.
