@@ -24,11 +24,11 @@ Another important exclusion is the removal of Montenegro. Having only three obse
 Appendix A provides a complete breakdown of data cleaning. Basic descriptive analysis was then performed to gather early understanding of the data set. 
 
 
-<img width="250" alt="figa 2 market" src="https://github.com/user-attachments/assets/05b18c3e-9c14-4d17-a045-05290410b3fb" />
+<img width="350" alt="figa 2 market" src="https://github.com/user-attachments/assets/05b18c3e-9c14-4d17-a045-05290410b3fb" />
 
 The highest frequency of customers fall in the $30k to $45k income bin.
 
-<img width="250"  alt="figb 2market" src="https://github.com/user-attachments/assets/04e6d926-f66a-4aa5-8717-52d4366a4990" />
+<img width="350"  alt="figb 2market" src="https://github.com/user-attachments/assets/04e6d926-f66a-4aa5-8717-52d4366a4990" />
 
 ‘Widow’ has the highest mean Income of all Marital Status, ‘Single’ the lowest. 
 
@@ -40,7 +40,7 @@ Finally, with PostgresSQL, Return on Conversion (ROC) was created to indicate th
 
 The 2Market Tableau worksheet has been designed to provide increasingly pinpointed analysis that answers core questions with each dashboard, leading to recommendations for 2Markets forthcoming marketing campaign. 
 
-<img width="965" height="776" alt="figc 2market" src="https://github.com/user-attachments/assets/af72d418-2cc0-488d-ab52-b62917dbe2e2" />
+<img width="350" alt="figc 2market" src="https://github.com/user-attachments/assets/af72d418-2cc0-488d-ab52-b62917dbe2e2" />
 
 The design is primarily for Desktop users and not yet optimised for mobile. The dashboards utilise two tone backgrounds to reduce visual overload, whilst ‘Key Points’ are emphasised with a navy blue box to allow users quick takeaways and visualisations use a bright colour pallet to assist in clear identification of trends. Filters also use this colour pallet and are positioned alongside the visualisations that they are referring to. Where possible, the F-Pattern is used to allow users to easily scan data. 
 
