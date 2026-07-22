@@ -3,12 +3,12 @@ Data Analysis of Intenational Supermaket Chain, 2Market | Excel, Tableau, SQL (P
 
 ## 2Market Marketing and Ad Data Analysis
 
-### Intro
+### Context
 2Market is a global supermarket that sells a range of products online and in-store. Previous years data will inform key business decision makers (CFO) as to how best to strategise forthcoming marketing campaigns. 2Market needs to maximise revenue as a key facet in profit maximisation, also contributing significantly to commercial targets; growth, share value, employee retention and more. It is important for 2Market to corroborate data across its seven locations to inform what works within its marketing strategy - to thus grow where it has lesser market share (Montenegro) and maintain the larger (Spain).
 
 Whilst statistically significant causation has not been identified - the analysis explores trends, asking questions and providing recommendations of customers spending profile, acquisition route and purchasing behaviour. 
 
-### More
+### Analytical Approach
 
 With no data regarding marketing costs, the focus will be on revenue maximisation. 
 Firstly, data was transformed to create additional fields ‘Age of Customer’ and ‘Total Revenue’. Then, data was cleaned, applying both statistical methods (interquartile range) and logic to exclude nine observations deemed as outliers (Appendix A). Notable exclusions that applied statistical methods include ‘Age of Customer’ and  ‘Total Revenue’ whereby the upper limits of both were 82 y/o and $118k respectively (Appendix B/C). For Age, one exclusion was made where the observation had an Age of 121 - when the oldest person in South Africa in 2015 was 116 (BBC News, 2015). As for income, an observation posted an income of $666,666 - also assumed as a false data input.
@@ -46,7 +46,7 @@ For each of the non descriptive dashboards, the core focus metric changes:
 
 A variety of visualisation types have been chosen, each to extract the most value from sets of relationships. Whatsmore, visualisations are strategically placed alongside one another to exhibit complementary or contrasting relationships. This is the case on ‘Customer Spending Profile’ where the placement of two scatter graphs measuring the relationship of ‘Customer Spending’ allow for cross comparison. This is also the case on ‘Customer Location’ where the same map is used to visually exhibit the difference in regional spending habits.
 
-## Conclusion
+## Dashboard Design & Development
 
 Firstly, Spain is the most valuable country, with over 6x the revenue value of Germany, India and the US individually. So any actions taken should help preserve this value or help to grow the value of the other countries.
 The first recommendation regards the positive, gradual, linear relationship and exponential relationship between ‘Customer Spending’ and ‘Age of Customer’ and ‘Customer Income’ respectively. 2Market should target their marketing campaigns at older, wealthier individuals, regardless of country.
