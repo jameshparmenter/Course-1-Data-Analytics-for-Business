@@ -1,13 +1,7 @@
 # Course-1-Data-Analytics-for-Business
 Data Analysis of Intenational Supermaket Chain, 2Market | Excel, Tableau, SQL (Postgres)
 
-
-Hello this is where I'll put an overview of the report
-
-
-
-## START
-# 2Market Marketing and Ad Data Analysis
+## 2Market Marketing and Ad Data Analysis
 
 ### Intro
 2Market is a global supermarket that sells a range of products online and in-store. Previous years data will inform key business decision makers (CFO) as to how best to strategise forthcoming marketing campaigns. 2Market needs to maximise revenue as a key facet in profit maximisation, also contributing significantly to commercial targets; growth, share value, employee retention and more. It is important for 2Market to corroborate data across its seven locations to inform what works within its marketing strategy - to thus grow where it has lesser market share (Montenegro) and maintain the larger (Spain).
