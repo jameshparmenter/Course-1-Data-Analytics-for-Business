@@ -38,6 +38,8 @@ INSERT CODE COPY
 
 Finally, with PostgresSQL, Return on Conversion (ROC) was created to indicate the total income value of each conversion by country - allowing a quick way to evaluate where conversions are most effective in driving revenue - valuable for transferring learnings across marketing campaigns.
 
+## Dashboard Design & Development
+
 The 2Market Tableau worksheet has been designed to provide increasingly pinpointed analysis that answers core questions with each dashboard, leading to recommendations for 2Markets forthcoming marketing campaign. 
 
 <img width="350" alt="figc 2market" src="https://github.com/user-attachments/assets/af72d418-2cc0-488d-ab52-b62917dbe2e2" />
@@ -56,7 +58,7 @@ For each of the non descriptive dashboards, the core focus metric changes:
 
 A variety of visualisation types have been chosen, each to extract the most value from sets of relationships. Whatsmore, visualisations are strategically placed alongside one another to exhibit complementary or contrasting relationships. This is the case on ‘Customer Spending Profile’ where the placement of two scatter graphs measuring the relationship of ‘Customer Spending’ allow for cross comparison. This is also the case on ‘Customer Location’ where the same map is used to visually exhibit the difference in regional spending habits.
 
-## Dashboard Design & Development
+## Patterns, Trends and Insights
 
 Firstly, Spain is the most valuable country, with over 6x the revenue value of Germany, India and the US individually. So any actions taken should help preserve this value or help to grow the value of the other countries.
 
