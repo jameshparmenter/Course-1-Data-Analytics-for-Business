@@ -49,10 +49,9 @@ The flow of the dashboard was as follows:
   <li>Customer Location with Key Points Summary: ‘How should 2Market adapt marketing to customer shopping habits?’</li>
 </ul>
 
-
-<img width="807" height="650" alt="2market5" src="https://github.com/user-attachments/assets/f43559f7-4c75-493c-846c-d5588185427c" />
-<img width="3696" height="1425" alt="2market34" src="https://github.com/user-attachments/assets/836593bd-793d-46c0-8b94-5b6991e07c60" />
-<img width="3590" height="1409" alt="2Market12" src="https://github.com/user-attachments/assets/55259186-f1c5-4fcb-8e9a-1c0e0314124c" />
+<img width="350" alt="2market34" src="https://github.com/user-attachments/assets/836593bd-793d-46c0-8b94-5b6991e07c60" />
+<img width="350" alt="2Market12" src="https://github.com/user-attachments/assets/55259186-f1c5-4fcb-8e9a-1c0e0314124c" />
+<img width="350" alt="2market5" src="https://github.com/user-attachments/assets/f43559f7-4c75-493c-846c-d5588185427c" />
 
 ## Patterns Trends & Insights
 Our structure was to answer a core question on each dashboard, culminating in a connected story.
