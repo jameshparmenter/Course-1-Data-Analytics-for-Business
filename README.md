@@ -33,7 +33,7 @@ With the dataset made appropriate for analysis, we used Excel to run further des
 
 In PostgresSQL we created a unique metric of Return on Conversion - to indicate the total income value of each conversion, allowing us to filter this by country, age etc in our analysis:
 
-`ROC = Total Country Income / SUM(Count of Twitter, Instagram, Facebook, Brochure, Bulkmail)
+    ROC = Total Country Income / SUM(Count of Twitter, Instagram, Facebook, Brochure, Bulkmail)
 
 
 ## Dashboard Design & Development
