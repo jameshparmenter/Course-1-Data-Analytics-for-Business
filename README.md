@@ -29,7 +29,7 @@ The data was medium in size, consisting of two datasets containing 2156 observat
 <i>‘As for income, an observation posted an income of $666,666 - also assumed as a false data input.’</i><br>
 <i>‘Not all observations above the upper limits were excluded. Customers with the ages 114 and 115 were deemed feasible enough to be part of a true 2Market customer base’</i><br>
 
-With the dataset made appropriate for analysis, we used Excel to run further descriptive statistics to gain insights into the shape and spread of the data. Here, we found the frequency of customers per income bin - and decided to disregard ‘Qualification’ and ‘Marital Status’ from further analysis as they were less significant indicators as to ‘how’ and ‘who’ 2Market should target in the marketing campaign. 
+<br>With the dataset made appropriate for analysis, we used Excel to run further descriptive statistics to gain insights into the shape and spread of the data. Here, we found the frequency of customers per income bin - and decided to disregard ‘Qualification’ and ‘Marital Status’ from further analysis as they were less significant indicators as to ‘how’ and ‘who’ 2Market should target in the marketing campaign. 
 
 In PostgresSQL we created a unique metric of Return on Conversion - to indicate the total income value of each conversion, allowing us to filter this by country, age etc in our analysis:
 
