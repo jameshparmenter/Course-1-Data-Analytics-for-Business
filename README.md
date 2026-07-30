@@ -64,4 +64,6 @@ Our structure was to answer a core question on each dashboard, culminating in a 
 <li><i>‘Germany has the highest ROC (£208), the lowest India ($122). Considering Germany is 1/6th the value of Spain, more emphasis could be placed in driving conversions in Germany.’</i></li>
 <li><i>‘Interesting further investigation would include investigating family spending via ‘Child at Home’ and tailoring marketing to families.’</i></li>
 </ul>
+
+
 Overall, this story told to the CFO, gave clear, industry appropriate and creative solutions to the business problem.
