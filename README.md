@@ -4,18 +4,18 @@ In 'Data Analysis for Business', we were provided with the foundational tools to
 
 Here we learned to place value in stakeholder engagement, and how to define the business problem.
 
-###The Assignment:
+## The Assignment:
 
 For the assignment, we were provided with the data of a hypothetical supermarket chain ‘2Market’ that is seeking to plan marketing spend and strategy.
 
-##Building Context
+## Building Context
 
 First, it was necessary to define the business problem and who the report is directed towards: 
 
 <i>‘Previous years data will inform key business decision makers (CFO) as to how best to strategise forthcoming marketing campaigns. 2Market needs to maximise revenue as a key facet in profit maximisation, also contributing significantly to commercial targets; growth, share value, employee retention and more’</i>
 
 
-##Analytical Approach
+## Analytical Approach
 
 The data was medium in size, consisting of two datasets containing 2156 observations and 29 total variables. The following statistical and logical steps were completed to transform the raw dataset into one ready for analysis: 
 Identify and Remove Duplicate Observations
@@ -33,7 +33,7 @@ In PostgresSQL we created a unique metric of Return on Conversion - to indicate 
 
 
 
-##Dashboard Design & Development
+## Dashboard Design & Development
 
 For dashboard design and development, I found praise for building a story-telling dashboard that applied increasingly pinpointed analysis, targeted at the business problem.
 
