@@ -1,8 +1,10 @@
 ## Course 1: Data Analysis for Business
 
-In 'Data Analysis for Business', we were provided with the foundational tools to inform business decisions. These tools include using Excel to run statistical statistics, data transformation cleaning, plus using Tableau to create insightful, interactive dashboards. Finally we acquired the foundational SQL knowledge to complete JOINs, QUERYs and to retrieve data.
+In 'Data Analysis for Business', we were provided with the foundational tools to inform business decisions. These tools include using Excel to run descriptive statistics, data transformation, plus using Tableau to create insightful, interactive dashboards. Finally we acquired the foundational SQL knowledge to complete JOINs, QUERYs and to retrieve data. In this course, we also learned effective stakeholder engagement, and how to define the business problem.
 
-Here we learned to place value in stakeholder engagement, and how to define the business problem.
+Please use the <a href='https://github.com/jameshparmenter/Course-1-Data-Analytics-for-Business/blob/main/Parmenter_James_DA301_Assignment_Report.pdf%20%20(1).pdf'> full report above.</a>
+
+<b>Grade: 86% </b>
 
 ## The Assignment:
 
