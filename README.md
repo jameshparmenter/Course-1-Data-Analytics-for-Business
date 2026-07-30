@@ -27,14 +27,13 @@ The data was medium in size, consisting of two datasets containing 2156 observat
   <li>Perform Outlier Analysis on Core Values - dropping observations where necessary</li>
 </ul>
 <i>‘As for income, an observation posted an income of $666,666 - also assumed as a false data input.’</i><br>
-<i>‘Not all observations above the upper limits were excluded. Customers with the ages 114 and 115 were deemed feasible enough to be part of a true 2Market customer base’</i>
+<i>‘Not all observations above the upper limits were excluded. Customers with the ages 114 and 115 were deemed feasible enough to be part of a true 2Market customer base’</i><br>
 
 With the dataset made appropriate for analysis, we used Excel to run further descriptive statistics to gain insights into the shape and spread of the data. Here, we found the frequency of customers per income bin - and decided to disregard ‘Qualification’ and ‘Marital Status’ from further analysis as they were less significant indicators as to ‘how’ and ‘who’ 2Market should target in the marketing campaign. 
 
 In PostgresSQL we created a unique metric of Return on Conversion - to indicate the total income value of each conversion, allowing us to filter this by country, age etc in our analysis:
 
-<i>ROC = Total Country Income / SUM(Count of Twitter, Instagram, Facebook, Brochure, Bulkmail)</i>
-
+`ROC = Total Country Income / SUM(Count of Twitter, Instagram, Facebook, Brochure, Bulkmail)
 
 
 ## Dashboard Design & Development
@@ -51,13 +50,9 @@ The flow of the dashboard was as follows:
 </ul>
 
 
-
-
-
-
-
-
-
+<img width="807" height="650" alt="2market5" src="https://github.com/user-attachments/assets/f43559f7-4c75-493c-846c-d5588185427c" />
+<img width="3696" height="1425" alt="2market34" src="https://github.com/user-attachments/assets/836593bd-793d-46c0-8b94-5b6991e07c60" />
+<img width="3590" height="1409" alt="2Market12" src="https://github.com/user-attachments/assets/55259186-f1c5-4fcb-8e9a-1c0e0314124c" />
 
 ## Patterns Trends & Insights
 Our structure was to answer a core question on each dashboard, culminating in a connected story.
